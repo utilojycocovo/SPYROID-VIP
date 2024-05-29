@@ -2,7 +2,7 @@
 Spyroid Vip is the best and most powerful Android remote control hacking Program 
 **
 # Contact Us
-[![Channel](https://t.me/ALIENDOT)
+http://t.me/ALIENDOT
 ## Features
 
 | Feature/OS      | Paid |
